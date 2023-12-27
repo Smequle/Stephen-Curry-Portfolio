@@ -1,0 +1,40 @@
+.menu {
+    position: fixed;
+    background-color: deepskyblue;
+    width: 100%;
+    margin-top: 0px;
+    color: red;
+    top: 0px;
+}
+
+.links {
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 25px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.links:hover {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+img {
+    width: 700px;
+}
+
+#home {
+    background: linear-gradient(rgb(151, 212, 250) 0%, rgb(8, 240, 43)100%);
+    padding-bottom: 20px;
+}
+
+.name {
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
